@@ -44,19 +44,13 @@
 
 <div align="center">
   <p><b>Frontend & Design</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma,vite" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma,vite" />
   
   <p><b>Backend & Database</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,python,flask,redis" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,python,flask,redis" />
   
   <p><b>DevOps & Tools</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,vscode,postman" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,vscode,postman" />
 </div>
 
 <br/>
@@ -64,16 +58,16 @@
 ## 🏆 Featured Repositories
 <p align="center">
   <a href="https://github.com/YashSingh14/NutriSync-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=NutriSync-AI&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=NutriSync-AI&theme=radium&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Secure-Voting-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Secure-Voting-System&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Secure-Voting-System&theme=radium&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Automated-Timetable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Automated-Timetable&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Automated-Timetable&theme=radium&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Local-Pollution-Reporting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Local-Pollution-Reporting&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Local-Pollution-Reporting&theme=radium&hide_border=true" width="48%" />
   </a>
 </p>
 
