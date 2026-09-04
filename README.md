@@ -1,62 +1,111 @@
-<h1 align="center">Hi 👋, I'm Yash Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yash%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=60" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/YashSingh14">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Transforming+Ideas+Into+Code;Building+Scalable+Web+Apps;Exploring+Machine+Learning" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/YashSingh14">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://twitter.com/YashSingh14" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</p>
+  <a href="https://linkedin.com/in/YashSingh14" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yashsingh.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
----
+<br/>
+<br/>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **Full Stack Development & System Design**
-- 💬 Ask me about **React, Node.js, and Web Development**
-- 📫 How to reach me **[your-email@example.com]**
-- ⚡ Fun fact **I love to code and drink coffee!**
+## 🚀 About Me
+<div align="center">
+  <i>"I build products that provide real-world value and elegant user experiences."</i>
+</div>
+<br/>
 
-### 🛠️ Languages & Tools
-<p align="left">
+* 🏢 Currently building modern software architectures and responsive web applications.
+* 🛠️ Constantly exploring the boundaries of **TypeScript, React, Node.js**, and Machine Learning.
+* 💡 Always open to collaborating on innovative open-source projects.
+* 📫 Reach out for freelance opportunities, open source, or just a tech chat!
+
+<br/>
+
+## 🛠️ Arsenal & Technologies
+
+<div align="center">
+  <p><b>Frontend & Design</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma,vite" />
   </a>
-</p>
+  
+  <p><b>Backend & Database</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,python,flask,redis" />
+  </a>
+  
+  <p><b>DevOps & Tools</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,vscode,postman" />
+  </a>
+</div>
 
-### 🚀 Top Projects
+<br/>
+
+## 🏆 Featured Repositories
 <p align="center">
   <a href="https://github.com/YashSingh14/NutriSync-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=NutriSync-AI&theme=radium&bg_color=0D1117&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=NutriSync-AI&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Secure-Voting-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Secure-Voting-System&theme=radium&bg_color=0D1117&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Secure-Voting-System&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Automated-Timetable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Automated-Timetable&theme=radium&bg_color=0D1117&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Automated-Timetable&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Local-Pollution-Reporting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Local-Pollution-Reporting&theme=radium&bg_color=0D1117&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Local-Pollution-Reporting&theme=transparent&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" width="48%" />
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSingh14&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Yash's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSingh14&theme=radium&hide_border=true&background=0D1117" alt="Yash's Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSingh14&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+## 📈 GitHub Metrics
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&animation=fadeIn&fontAlignY=40" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashSingh14&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Yash's Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashSingh14&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" alt="Yash's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSingh14&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff" alt="Top Languages" height="192px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSingh14&theme=transparent&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff" alt="Yash's Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashSingh14&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
+</div>
