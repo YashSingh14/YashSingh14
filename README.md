@@ -58,16 +58,16 @@
 ## 🏆 Featured Repositories
 <p align="center">
   <a href="https://github.com/YashSingh14/NutriSync-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=NutriSync-AI&theme=radium&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YashSingh14&repo=NutriSync-AI&theme=radium&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Secure-Voting-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Secure-Voting-System&theme=radium&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YashSingh14&repo=Secure-Voting-System&theme=radium&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Automated-Timetable">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Automated-Timetable&theme=radium&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YashSingh14&repo=Automated-Timetable&theme=radium&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/YashSingh14/Local-Pollution-Reporting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YashSingh14&repo=Local-Pollution-Reporting&theme=radium&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=YashSingh14&repo=Local-Pollution-Reporting&theme=radium&hide_border=true" width="48%" />
   </a>
 </p>
 
@@ -76,14 +76,8 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashSingh14&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Yash's Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSingh14&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" alt="Yash's GitHub stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSingh14&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YashSingh14&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6" alt="Yash's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YashSingh14&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff" alt="Top Languages" height="192px"/>
 </div>
 
 <br/>
